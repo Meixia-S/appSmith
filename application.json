@@ -1,11 +1,23 @@
 {
   "pages": [
     {
-      "id": "Visit Memo Page",
+      "id": "View Visit Memos",
       "isDefault": true
     },
     {
-      "id": "Page2",
+      "id": "View Representative Ratings",
+      "isDefault": false
+    },
+    {
+      "id": "View Insurance",
+      "isDefault": false
+    },
+    {
+      "id": "Add new Visit Memo",
+      "isDefault": false
+    },
+    {
+      "id": "Delete Visit Memo",
       "isDefault": false
     }
   ],

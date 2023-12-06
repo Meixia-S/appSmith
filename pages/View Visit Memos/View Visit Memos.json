@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Visit Memo Page",
-    "slug": "visit-memo-page",
+    "name": "View Visit Memos",
+    "slug": "view-visit-memos",
     "layouts": [
       {
         "viewMode": false,
@@ -29,7 +29,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Visit Memo Page_Visit_Memo",
+              "id": "View Visit Memos_Visit_Memo",
               "name": "Visit_Memo",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -42,7 +42,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Visit Memo Page",
+        "id": "View Visit Memos",
         "deleted": false,
         "policies": [],
         "userPermissions": []
