@@ -63,7 +63,7 @@
     "originalBottomRow": 68,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 61,
-    "widgetName": "Table1",
+    "widgetName": "Insurance_Table",
     "defaultPageSize": 0,
     "columnOrder": [
         "cost",
@@ -84,7 +84,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "coverage": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"coverage\"]))}}",
+            "computedValue": "{{Insurance_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"coverage\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "coverage",
@@ -118,7 +118,7 @@
             "verticalAlignment": "CENTER"
         },
         "cost": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"cost\"]))}}",
+            "computedValue": "{{Insurance_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"cost\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "cost",
@@ -152,7 +152,7 @@
             "verticalAlignment": "CENTER"
         },
         "customerID": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"customerID\"]))}}",
+            "computedValue": "{{Insurance_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"customerID\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "customerID",
@@ -186,7 +186,7 @@
             "verticalAlignment": "CENTER"
         },
         "insurancePolicyID": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"insurancePolicyID\"]))}}",
+            "computedValue": "{{Insurance_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"insurancePolicyID\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "insurancePolicyID",
@@ -220,7 +220,7 @@
             "verticalAlignment": "CENTER"
         },
         "insuranceCompany": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"insuranceCompany\"]))}}",
+            "computedValue": "{{Insurance_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"insuranceCompany\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "insuranceCompany",
@@ -261,7 +261,7 @@
     "textSize": "0.875rem",
     "widgetId": "nlc60j3zlz",
     "minWidth": 450,
-    "tableData": "{{Get_Insurance_API.data}}",
+    "tableData": "{{Get_Insurance.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

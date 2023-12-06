@@ -517,7 +517,7 @@
     "textSize": "0.875rem",
     "widgetId": "6dn97l1v95",
     "minWidth": 450,
-    "tableData": "{{View_Previous_Trip.data}}",
+    "tableData": "{{Get_Previous_Trips.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

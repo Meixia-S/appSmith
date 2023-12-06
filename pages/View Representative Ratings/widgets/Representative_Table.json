@@ -62,7 +62,7 @@
     "originalBottomRow": 45,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 47,
-    "widgetName": "Table1",
+    "widgetName": "Representative_Table",
     "defaultPageSize": 0,
     "columnOrder": [
         "rating",
@@ -82,7 +82,7 @@
     "borderWidth": "1",
     "primaryColumns": {
         "firstName": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"firstName\"]))}}",
+            "computedValue": "{{Representative_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"firstName\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "firstName",
@@ -113,7 +113,7 @@
             "verticalAlignment": "CENTER"
         },
         "lastName": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"lastName\"]))}}",
+            "computedValue": "{{Representative_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"lastName\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "lastName",
@@ -144,7 +144,7 @@
             "verticalAlignment": "CENTER"
         },
         "rating": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"rating\"]))}}",
+            "computedValue": "{{Representative_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"rating\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "rating",
@@ -175,7 +175,7 @@
             "verticalAlignment": "CENTER"
         },
         "employeeID": {
-            "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"employeeID\"]))}}",
+            "computedValue": "{{Representative_Table.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"employeeID\"]))}}",
             "isEditable": false,
             "notation": "standard",
             "alias": "employeeID",
@@ -213,7 +213,7 @@
     "textSize": "0.875rem",
     "widgetId": "0jsbsdjf17",
     "minWidth": 450,
-    "tableData": "{{Representatives.data}}",
+    "tableData": "{{Get_Representatives.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

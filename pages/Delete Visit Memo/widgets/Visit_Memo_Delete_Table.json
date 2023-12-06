@@ -375,7 +375,7 @@
         "customColumn1": {
             "boxShadow": "{{Visit_Memo_Delete_Table.processedTableData.map((currentRow, currentIndex) => ( \"none\"))}}",
             "computedValue": "",
-            "onClick": "{{Delete_Visit_Memo.run({\n  \"memoID\": Visit_Memo_Delete_Table.selectedRow.memoID\n}).then(() => {\n  showAlert('Successfully Deleted', 'success');\n  View_Deleted_Memo.run({\n    \"memoID\": Input1.text\n  });\n}).catch(() => {\n  showAlert('Could Not Delete', '');\n});}}",
+            "onClick": "{{Delete_Visit_Memo.run({\n  \"memoID\": Visit_Memo_Delete_Table.selectedRow.memoID\n}).then(() => {\n  showAlert('Successfully Deleted', 'success');\n  View_Visit_Memo.run({\n    \"memoID\": VM_Input.text\n  });\n}).catch(() => {\n  showAlert('Could Not Delete', '');\n});}}",
             "buttonColor": "{{Visit_Memo_Delete_Table.processedTableData.map((currentRow, currentIndex) => ( (appsmith.theme.colors.primaryColor)))}}",
             "isEditable": false,
             "notation": "standard",
@@ -419,7 +419,7 @@
     "textSize": "0.875rem",
     "widgetId": "ubft1lwknp",
     "minWidth": 450,
-    "tableData": "{{View_Deleted_Memo.data}}",
+    "tableData": "{{View_Visit_Memo.data}}",
     "label": "Data",
     "searchKey": "",
     "parentId": "0",

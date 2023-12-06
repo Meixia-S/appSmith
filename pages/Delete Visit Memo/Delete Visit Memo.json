@@ -28,12 +28,12 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Delete Visit Memo_View_Deleted_Memo",
-              "name": "View_Deleted_Memo",
+              "id": "Delete Visit Memo_View_Visit_Memo",
+              "name": "View_Visit_Memo",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "Input1.text"
+                "VM_Input.text"
               ],
               "timeoutInMillisecond": 10000
             }

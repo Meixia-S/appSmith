@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "View Representative Ratings_Representatives",
-              "name": "Representatives",
+              "id": "View Representative Ratings_Get_Representatives",
+              "name": "Get_Representatives",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [],
