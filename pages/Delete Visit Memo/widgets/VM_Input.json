@@ -6,7 +6,7 @@
     "type": "INPUT_WIDGET_V2",
     "animateLoading": true,
     "resetOnSubmit": true,
-    "leftColumn": 11,
+    "leftColumn": 1,
     "dynamicBindingPathList": [
         {"key": "accentColor"},
         {"key": "borderRadius"}
@@ -46,10 +46,10 @@
     "key": "ne2vbdqall",
     "labelTextSize": "0.875rem",
     "isDeprecated": false,
-    "rightColumn": 25,
+    "rightColumn": 19,
     "widgetId": "ajxvz9gxtq",
     "minWidth": 450,
-    "label": "Label",
+    "label": "Employee ID",
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",

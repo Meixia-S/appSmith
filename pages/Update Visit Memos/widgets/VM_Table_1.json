@@ -69,6 +69,7 @@
     },
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "columnUpdatedAt": 1701886376242,
+    "originalBottomRow": 55,
     "defaultSelectedRowIndices": [0],
     "mobileBottomRow": 54,
     "widgetName": "VM_Table_1",
@@ -410,6 +411,7 @@
     "horizontalAlignment": "LEFT",
     "isVisibleSearch": true,
     "responsiveBehavior": "fill",
+    "originalTopRow": 25,
     "mobileLeftColumn": 17,
     "isVisiblePagination": true,
     "verticalAlignment": "CENTER"
