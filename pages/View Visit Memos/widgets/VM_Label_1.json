@@ -25,6 +25,7 @@
         "Inputs"
     ],
     "isLoading": false,
+    "regex": "^[1-9][0-9]*$",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 23,
     "widgetName": "VM_Label_1",
@@ -48,6 +49,7 @@
     "isDeprecated": false,
     "rightColumn": 20,
     "widgetId": "w1i5i66bpz",
+    "errorMessage": "Not a Valid ID",
     "minWidth": 450,
     "label": "Label",
     "parentId": "0",

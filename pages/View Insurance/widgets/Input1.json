@@ -25,6 +25,7 @@
         "Inputs"
     ],
     "isLoading": false,
+    "regex": "^[1-9][0-9]*$",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "originalBottomRow": 32,
     "mobileBottomRow": 30,
@@ -49,6 +50,7 @@
     "isDeprecated": false,
     "rightColumn": 23,
     "widgetId": "dw8m2k6jzo",
+    "errorMessage": "Not a Valid ID",
     "minWidth": 450,
     "label": "Label",
     "parentId": "0",

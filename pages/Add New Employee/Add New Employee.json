@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Add new Visit Memo",
-    "slug": "add-new-visit-memo",
+    "name": "Add New Employee",
+    "slug": "add-new-employee",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 540,
+          "bottomRow": 640,
           "containerStyle": "none",
           "snapRows": 77,
           "parentRowSpace": 1,
@@ -25,23 +25,10 @@
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Add new Visit Memo_New_Visit_Memo",
-              "name": "New_Visit_Memo",
-              "confirmBeforeExecute": false,
-              "pluginType": "API",
-              "jsonPathKeys": [
-                "add_new_memo.formData"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Add new Visit Memo",
+        "id": "Add New Employee",
         "deleted": false,
         "policies": [],
         "userPermissions": []
