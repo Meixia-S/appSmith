@@ -21,7 +21,11 @@
       "isDefault": false
     },
     {
-      "id": "Update Visit Memo",
+      "id": "Update Visit Memos",
+      "isDefault": false
+    },
+    {
+      "id": "Update Previous Trips",
       "isDefault": false
     }
   ],
@@ -29,6 +33,7 @@
   "appIsExample": false,
   "unreadCommentThreads": 0,
   "color": "#EAEDFB",
+  "icon": "flight",
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
