@@ -1,34 +1,48 @@
 {
   "unpublishedPage": {
-    "name": "Update Visit Memo",
-    "slug": "update-visit-memo",
+    "name": "Update Visit Memos",
+    "slug": "update-visit-memos",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1224,
+          "rightColumn": 4896,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 460,
+          "bottomRow": 540,
           "containerStyle": "none",
-          "snapRows": 77,
+          "snapRows": 124,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 87,
-          "minHeight": 790,
+          "minHeight": 1292,
+          "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0
         },
-        "layoutOnLoadActions": [],
+        "layoutOnLoadActions": [
+          [
+            {
+              "id": "Update Visit Memos_View_Visit_Memo",
+              "name": "View_Visit_Memo",
+              "confirmBeforeExecute": false,
+              "pluginType": "API",
+              "jsonPathKeys": [
+                "VM_Label_1.text"
+              ],
+              "timeoutInMillisecond": 10000
+            }
+          ]
+        ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Update Visit Memo",
+        "id": "Update Visit Memos",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +53,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656fbe8562bdb6283f668daa_65709ce05f2fbc021aeda2bb"
+  "gitSyncId": "6570a7edbfa5ad7568560c05_6570b8e8fa45ec0fd801dd1d"
 }
