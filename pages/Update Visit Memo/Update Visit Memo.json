@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Delete Visit Memo",
-    "slug": "delete-visit-memo",
+    "name": "Update Visit Memo",
+    "slug": "update-visit-memo",
     "layouts": [
       {
         "viewMode": false,
@@ -13,7 +13,7 @@
           "detachFromLayout": true,
           "widgetId": "0",
           "topRow": 0,
-          "bottomRow": 410,
+          "bottomRow": 460,
           "containerStyle": "none",
           "snapRows": 77,
           "parentRowSpace": 1,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Delete Visit Memo",
+        "id": "Update Visit Memo",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -39,5 +39,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "656fbe8562bdb6283f668daa_657099f15f2fbc021aeda2b6"
+  "gitSyncId": "656fbe8562bdb6283f668daa_65709ce05f2fbc021aeda2bb"
 }

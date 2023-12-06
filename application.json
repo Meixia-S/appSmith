@@ -19,6 +19,10 @@
     {
       "id": "Delete Visit Memo",
       "isDefault": false
+    },
+    {
+      "id": "Update Visit Memo",
+      "isDefault": false
     }
   ],
   "viewMode": false,
