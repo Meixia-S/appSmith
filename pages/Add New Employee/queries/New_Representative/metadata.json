@@ -57,8 +57,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-12-06T16:57:17Z"
+    "userPermissions": []
   },
   "id": "Add New Employee_New_Representative",
   "deleted": false,
