@@ -34,7 +34,7 @@
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
-                "VM_Label_1.text"
+                "VM_Label.text"
               ],
               "timeoutInMillisecond": 10000
             }

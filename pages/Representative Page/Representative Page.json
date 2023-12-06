@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Page2",
-    "slug": "page2",
+    "name": "Representative Page",
+    "slug": "representative-page",
     "layouts": [
       {
         "viewMode": false,
@@ -28,7 +28,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Page2_Representatives",
+              "id": "Representative Page_Representatives",
               "name": "Representatives",
               "confirmBeforeExecute": false,
               "pluginType": "API",
@@ -39,14 +39,15 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Page2",
+        "id": "Representative Page",
         "deleted": false,
         "policies": [],
         "userPermissions": []
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": false
   },
   "deleted": false,
   "gitSyncId": "656d03b90cd16569dc77dd4d_656fb957367e6a7abcc49f9c"
