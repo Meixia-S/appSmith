@@ -51,7 +51,7 @@
     "widgetId": "w1i5i66bpz",
     "errorMessage": "Not a Valid ID",
     "minWidth": 450,
-    "label": "Label",
+    "label": "Employee ID",
     "parentId": "0",
     "labelAlignment": "left",
     "renderMode": "CANVAS",
