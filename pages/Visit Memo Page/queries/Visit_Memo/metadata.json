@@ -58,8 +58,7 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": [],
-    "createdAt": "2023-12-05T23:32:18Z"
+    "userPermissions": []
   },
   "id": "Visit Memo Page_Visit_Memo",
   "deleted": false,
