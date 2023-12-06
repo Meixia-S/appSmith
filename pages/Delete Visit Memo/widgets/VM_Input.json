@@ -27,7 +27,7 @@
     "isLoading": false,
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileBottomRow": 10,
-    "widgetName": "Input1",
+    "widgetName": "VM_Input",
     "displayName": "Input",
     "searchTags": [
         "form",
@@ -41,6 +41,7 @@
     "hideCard": false,
     "mobileRightColumn": 14,
     "parentColumnSpace": 13.3125,
+    "dynamicTriggerPathList": [],
     "labelPosition": "Top",
     "key": "ne2vbdqall",
     "labelTextSize": "0.875rem",
@@ -57,6 +58,6 @@
     "mobileLeftColumn": 0,
     "maxDynamicHeight": 9000,
     "iconAlign": "left",
-    "defaultText": "",
+    "defaultText": "1",
     "minDynamicHeight": 4
 }

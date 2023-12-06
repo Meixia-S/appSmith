@@ -28,8 +28,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "View Insurance_Get_Insurance_API",
-              "name": "Get_Insurance_API",
+              "id": "View Insurance_Get_Insurance",
+              "name": "Get_Insurance",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [

@@ -2,7 +2,7 @@
   "pluginType": "API",
   "pluginId": "restapi-plugin",
   "unpublishedAction": {
-    "name": "Get_Insurance_API",
+    "name": "Get_Insurance",
     "datasource": {
       "name": "DEFAULT_REST_DATASOURCE",
       "pluginId": "restapi-plugin",
@@ -55,7 +55,7 @@
     "userPermissions": [],
     "createdAt": "2023-12-06T16:57:17Z"
   },
-  "id": "View Insurance_Get_Insurance_API",
+  "id": "View Insurance_Get_Insurance",
   "deleted": false,
   "gitSyncId": "656fbe8562bdb6283f668daa_65708fa862bdb6283f668dbc"
 }

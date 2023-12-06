@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Update Previous Trips",
-    "slug": "update-previous-trips",
+    "name": "View Previous Trips",
+    "slug": "view-previous-trips",
     "layouts": [
       {
         "viewMode": false,
@@ -29,8 +29,8 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Update Previous Trips_View_Previous_Trip",
-              "name": "View_Previous_Trip",
+              "id": "View Previous Trips_Get_Previous_Trips",
+              "name": "Get_Previous_Trips",
               "confirmBeforeExecute": false,
               "pluginType": "API",
               "jsonPathKeys": [
@@ -42,7 +42,7 @@
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Update Previous Trips",
+        "id": "View Previous Trips",
         "deleted": false,
         "policies": [],
         "userPermissions": []
