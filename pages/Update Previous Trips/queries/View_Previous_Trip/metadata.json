@@ -58,7 +58,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": false,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-12-06T18:19:23Z"
   },
   "id": "Update Previous Trips_View_Previous_Trip",
   "deleted": false,

@@ -62,7 +62,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": true,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-12-06T18:10:37Z"
   },
   "id": "Update Visit Memos_Update_Visit_Memo_Notes",
   "deleted": false,

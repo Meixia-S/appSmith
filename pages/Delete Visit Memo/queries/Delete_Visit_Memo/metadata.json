@@ -62,7 +62,8 @@
     "userSetOnLoad": false,
     "confirmBeforeExecute": true,
     "policies": [],
-    "userPermissions": []
+    "userPermissions": [],
+    "createdAt": "2023-12-06T16:57:17Z"
   },
   "id": "Delete Visit Memo_Delete_Visit_Memo",
   "deleted": false,
